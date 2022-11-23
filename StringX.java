@@ -19,5 +19,7 @@ class StringX
         String str5 = new String("Hello");
         String str6 = new String("World");
         String str7 = new String("Hello");
+
+        System.out.println("Data is : "+str1);
     }
 }
